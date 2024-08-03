@@ -1,0 +1,1 @@
+This repository contains all of my work for Building LLMs, Application development with LLMs, and Prompt Engineering. Code is written in python. Models will include work with Closed and Open sourced models.
